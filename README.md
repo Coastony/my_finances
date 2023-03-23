@@ -4,7 +4,7 @@
  
  ## ✔️ Techniques and technologies used
 
-- ``HTML5`` ``CSS3`` ``JavaScript`` ``TypeScript`` ``ReactJS`` ``Google Fonts`` ``CSS Modules`` ``Vite`` ``Vite`` ``JSON Server`` ``Zod`` ``Axios`` ``ESLint`` ``Hooks`` ``ReactJS`` ``HTTP`` ``API``
+- ``HTML5`` ``CSS3`` ``JavaScript`` ``TypeScript`` ``ReactJS`` ``Google Fonts`` ``CSS Modules`` ``Vite`` ``JSON Server`` ``Zod`` ``Axios`` ``ESLint`` ``Hooks`` ``ReactJS`` ``HTTP`` ``API``
 
 <br>
 
